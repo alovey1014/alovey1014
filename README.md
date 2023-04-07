@@ -1,6 +1,6 @@
-### Hey I'm Qiao Ying! :hugs:
+<a align="bottom">### Hey I'm Qiao Ying! :hugs:</a>
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" align="center">
-<b>About Me</b>
+<a align="bottom">About Me</a>
 <hr>
 I am a first year undergraduate student at <a href="https://www.utm.my/" target="blank">Universiti Teknologi Mallaysia(UTM)</a>. I am currently enrolled in Software Engineering(Web-Based Learning) course.
 
