@@ -3,7 +3,7 @@
 <b>About Me</b>
 <hr>
 #### I am a first year undergraduate student at <a href="https://www.utm.my/" target="blank">Universiti Teknologi Mallaysia(UTM)</a>.
-I am currently enrolled in Software Engineering(Web-Based Learning) course. 
+<p>I am currently enrolled in Software Engineering(Web-Based Learning) course.</p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=alovey1014&show_icons=true&theme=dark#gh-dark-mode-only" width="400">
                                                                                                                       
