@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey I'm Qiao Ying!
+
+####I am a first Year undergraduate Student at <a href="https://www.utm.my/" target="blank">Universiti Teknologi Mallaysia(UTM)</a>
 
 
 **alovey1014/alovey1014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,4 +19,4 @@ Here are some ideas to get you started:
 
 Find me on:
 <br>
-<a href="https://instagram.com/qiaoyingggggg?igshid=YmMyMTA2M2Y=" target="blank"><img align="left" src="https://user-images.githubusercontent.com/129234636/230544050-df11d9a2-d01a-4a6c-9ec5-6996d43bb2df.svg" height="30" width="30"/></a>
+<a href="https://instagram.com/qiaoyingggggg?igshid=YmMyMTA2M2Y=" target="blank"><img align="left" src="https://user-images.githubusercontent.com/129234636/230544050-df11d9a2-d01a-4a6c-9ec5-6996d43bb2df.svg" height="20" width="20"/></a>
