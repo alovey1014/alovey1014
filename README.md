@@ -2,7 +2,8 @@
 #### I am a first year undergraduate student at <a href="https://www.utm.my/" target="blank">Universiti Teknologi Mallaysia(UTM)</a>.
 I am currently enrolled in Software Engineering(Web-Based Learning) course. 
 
-<img src="https://github-readme-stats.vercel.app/api?username=alovey1014&show_icons=true&theme=transparent width="400">
+<img src="https://github-readme-stats.vercel.app/api?username=alovey1014&show_icons=true&theme=transparent" width="400">
+                                                                                                                      
 Find me on:
 <br>
 <a href="https://instagram.com/qiaoyingggggg?igshid=YmMyMTA2M2Y=" target="blank"><img  src="https://user-images.githubusercontent.com/129234636/230544050-df11d9a2-d01a-4a6c-9ec5-6996d43bb2df.svg" height="20" width="20"/></a>
