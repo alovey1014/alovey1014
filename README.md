@@ -1,7 +1,6 @@
 <h2 align="bottom">Hey I'm Qiao Ying! :hugs:</h2>
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" align="center">
-<h3 align="bottom" padding="0" HSPACE="0">About Me</h3>
-<hr>
+<h3 align="bottom">About Me</h3>
 I am a first year undergraduate student at <a href="https://www.utm.my/" target="blank">Universiti Teknologi Mallaysia(UTM)</a>. I am currently enrolled in Software Engineering(Web-Based Learning) course.
 
 <img src="https://github-readme-stats.vercel.app/api?username=alovey1014&show_icons=true&theme=dark#gh-dark-mode-only" width="400">
