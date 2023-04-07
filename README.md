@@ -1,7 +1,11 @@
 ### Hey I'm Qiao Ying! :hugs:
 
 $ npm install @kezoponk/scroller
-
+new Scroller('#scrolldiv', { direction: 'left', speed: 10 });
+<div id="scrolldiv" class="scroll-left">
+### Hey I'm Qiao Ying! :hugs:
+</div>
+  
 #### I am a first year undergraduate student at <a href="https://www.utm.my/" target="blank">Universiti Teknologi Mallaysia(UTM)</a>.
 I am currently enrolled in Software Engineering(Web-Based Learning) course. 
 
