@@ -1,4 +1,4 @@
-<a align="bottom">### Hey I'm Qiao Ying! :hugs:</a>
+<h2 align="bottom">Hey I'm Qiao Ying! :hugs:</h2>
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" align="center">
 <a align="bottom">About Me</a>
 <hr>
