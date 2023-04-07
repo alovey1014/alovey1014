@@ -1,6 +1,7 @@
 ### Hey I'm Qiao Ying! :hugs:
 
 $ npm install @kezoponk/scroller
+
 new Scroller('#scrolldiv', { direction: 'left', speed: 10 });
 <div id="scrolldiv" class="scroll-left">
 ### Hey I'm Qiao Ying! :hugs:
