@@ -2,11 +2,12 @@
 
 $ npm install @kezoponk/scroller
 
-new Scroller('#scrolldiv', { direction: 'left', speed: 10 });
 <div id="scrolldiv" class="scroll-left">
 ### Hey I'm Qiao Ying! :hugs:
 </div>
-  
+
+<link src="https://cdn.jsdelivr.net/npm/textify.js/dist/Textify.min.css" rel="stylesheet"/>
+<script src="https://cdn.jsdelivr.net/npm/textify.js/dist/Textify.min.js"></script>
 #### I am a first year undergraduate student at <a href="https://www.utm.my/" target="blank">Universiti Teknologi Mallaysia(UTM)</a>.
 I am currently enrolled in Software Engineering(Web-Based Learning) course. 
 
